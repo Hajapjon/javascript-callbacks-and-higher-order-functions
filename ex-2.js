@@ -1,6 +1,6 @@
 //Exercise #2: At Least Five Function
 
-function atLeastFive(array, operation) {
+function atLeastFive(array, studentQuality) {
   // Start coding here
   let count = 0
   for(let score of array) {
