@@ -27,6 +27,6 @@ let scoreRoom1Result = atLeastFive(studentScoresRoom1, studentQuality);
 let scoreRoom2Result = atLeastFive(studentScoresRoom2, studentQuality);
 let scoreRoom3Result = atLeastFive(studentScoresRoom3, studentQuality);
 
-console.log(scoreRoom1Result)
-console.log(scoreRoom2Result)
-console.log(scoreRoom3Result)
+console.log(`นักเรียนห้องที่ 1 ` + scoreRoom1Result)
+console.log(`นักเรียนห้องที่ 2 ` + scoreRoom2Result)
+console.log(`นักเรียนห้องที่ 3 ` + scoreRoom3Result)
